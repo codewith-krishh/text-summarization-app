@@ -4,7 +4,7 @@ Two production-grade NLP pipelines in one Streamlit app: paste any document and 
 3-sentence summary; ask any question over a passage and get the exact answer span extracted
 with a confidence score.
 
-**Live demo →** [Streamlit App](YOUR_STREAMLIT_LINK) | [60-sec Loom walkthrough](YOUR_LOOM_LINK)
+**Live demo →** [Streamlit App]([YOUR_STREAMLIT_LINK](https://nlp-demo-app-distilbart.streamlit.app/))
 
 ---
 
